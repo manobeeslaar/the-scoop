@@ -1,0 +1,18 @@
+users:
+  mano.beeslaar@gmail.com:
+    username: mano.beeslaar@gmail.com
+    articleIds:
+      - 1
+    commentIds: []
+articles:
+  '1':
+    id: 1
+    title: New Meteor 1.5.2
+    url: 'https://blog.meteor.com/announcing-meteor-1-5-2-105b53e0debc'
+    username: mano.beeslaar@gmail.com
+    commentIds: []
+    upvotedBy: []
+    downvotedBy: []
+nextArticleId: 2
+nextCommentId: 1
+comments: {}
